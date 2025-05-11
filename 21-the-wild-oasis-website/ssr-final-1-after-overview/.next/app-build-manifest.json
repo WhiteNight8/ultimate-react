@@ -15,6 +15,11 @@
       "static/chunks/main-app.js",
       "static/chunks/app/loading.js"
     ],
+    "/account/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/account/page.js"
+    ],
     "/cabins/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -25,10 +30,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/about/page.js"
     ],
-    "/account/page": [
+    "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/account/page.js"
+      "static/chunks/app/not-found.js"
     ]
   }
 }
